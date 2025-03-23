@@ -1,0 +1,14 @@
+.v{
+   height: 260px;
+   width: 400px;
+   border: 1px solid:white;
+   background-color: #ed1b24;
+}
+img{
+    width:230px;
+    height:200px;
+    position: relative;
+    top: 30px;
+    left: 80px;
+    
+}
